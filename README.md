@@ -18,7 +18,7 @@ In this repository I deal with many datasets starting from
     
     |         #         | Logistic Regression | Naive Bayes | KNN  | Decision Tree Classifier | Random Forest Classifier | ADA boosting Algo | Gradient Boosting Classifier | SVM |
     |-------------------|---------------------|-------------|----- |--------------------------|--------------------------|-------------------|------------------------------|-----|
-    |Averages           |   ^c0.76            |     ^c0.74  |^c0.76|                          |                          |                   |                              |     |
+    |Averages           |     0.76            |       0.74  |  0.76|      0.76                |           0.79           |    0.75           |    0.77                      | 0.75|
     |calculated Averages|                     |             |      |                          |                          |                   |                              |     |
     |Missing Values     |                     |             |      |                          |                          |                   |                              |     |
     |Predict values     |                     |             |      |                          |                          |                   |                              |     |
